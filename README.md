@@ -7,6 +7,7 @@
 - ⚡ Fun fact: ...
 
 - https://github.com/Crow-man/furniture
+- netlify link
 - about house tools
 
 - 
